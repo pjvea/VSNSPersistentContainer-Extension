@@ -2,7 +2,7 @@ VSNSPersistentContainer+Extension
 ============
 
 
-`VSNSPersistentContainer+Extension` is an extension on `NSPersistentContainer` that adds a method to get all entity names and a method that drops (deletes) all objects for all entities in the Core Data model
+`VSNSPersistentContainer+Extension` is an extension on `NSPersistentContainer` that adds a method to get all entity names and a method that drops (deletes) all objects for all entities in the Core Data model.
 
 Installation
 ============
